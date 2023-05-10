@@ -1,0 +1,11 @@
+10
+Accounting 350
+Algebra 200
+Astronomy 470
+Benson 400
+Biology 180
+ComputerScience 330
+Ecology 330
+HumanSociety 440
+Psysiological 770
+Statistic 230

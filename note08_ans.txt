@@ -1,0 +1,14 @@
+Accounting 600
+Algebra 200
+Astronomy 470
+Benson 400
+Biology 180
+Chemistry 400
+ComputerScience 330
+Datastructures&Algorithms 380
+Economics 450
+Empty None
+HumanSociety 440
+Psysiological 770
+Wow None
+Yyds None

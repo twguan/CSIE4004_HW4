@@ -1,0 +1,16 @@
+15
+Accounting 600
+Algebra 200
+Alphabet 150
+Astronomy 470
+Benson 400
+Biology 180
+Calculus 550
+Chemistry 400
+ComputerScience 330
+Datastructures&Algorithms 380
+Ecology 330
+Economics 450
+HumanSociety 440
+Psysiological 770
+Statistic 230

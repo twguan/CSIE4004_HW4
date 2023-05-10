@@ -1,0 +1,7 @@
+6
+Alphabet 150
+Accounting 600
+Calculus 550
+Chemistry 400
+Datastructures&Algorithms 380
+Economics 450
